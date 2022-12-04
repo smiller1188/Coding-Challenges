@@ -1,0 +1,1 @@
+htmlspecialchars = formData => formData.replace(/[<>"&]/g,replacerFunction => ({'<':'&lt;', '>':'&gt;', '"':'&quot;', '&':'&amp;'})[replacerFunction])
