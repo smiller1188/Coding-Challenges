@@ -12,4 +12,3 @@ This is the first kata in series:
 
 Find the unique number (this kata)
 Find the unique string
-Find The Unique
