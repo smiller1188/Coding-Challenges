@@ -8,7 +8,7 @@ One part of the game is also to research science in order to gain points at the 
 Compasses
 Gears
 Tablets
-The way points are added up works as described here:
+Points are added up works as described here:
 
 Step 1
 Each distinct set of three different glyphs is worth 7 points.
